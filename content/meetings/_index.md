@@ -1,27 +1,27 @@
 +++
-title = "Meetings"
-
-date = 2018-09-09T00:00:00
-# lastmod = 2018-09-09T00:00:00
+title = "CVPIA SDM Meetings"
 
 draft = false  # Is this a draft? true/false
 toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-[menu.tutorial]
+[menu.meetings]
   name = "Overview"
   weight = 1
 +++
 
-This feature can be used for publishing content such as:
+## Welcome
 
-* **Project or software documentation**
-* **Online courses**
-* **Tutorials**
+Oriention type words about accessing past agendas and meeting notes. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. 
 
-The parent folder may be renamed, for example, to `docs` for project documentation or `course` for creating an online course.
+## Upcoming Meeting
+Words about upcoming meeting. Proin tincidunt magna sed ex sollicitudin condimentum. 
 
-To disable this feature, either delete the parent folder, or set `draft = true` in the front matter of all its pages. 
+**Location**   
+**Time**    
+**Agenda**    
+**Call-in Number**
 
-After renaming or deleting the parent folder, you may wish to update any `[[menu.main]]` menu links to it in the `config.toml`. 
+Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
