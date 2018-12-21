@@ -203,7 +203,8 @@ enableGitInfo = false
     'Manuscript',  # 3
     'Report',  # 4
     'Book',  # 5
-    'Book section'  # 6
+    'Book section',  # 6
+    'ShinyApp' #7
   ]
 
   # Configuration of talk pages.
@@ -316,8 +317,13 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
+  name = "Meetings"
+  url = "/meetings/"
+  weight = 5
+
+[[menu.main]]
+  name = "Apps"
+  url = "/apps/"
   weight = 5
 
 [[menu.main]]
