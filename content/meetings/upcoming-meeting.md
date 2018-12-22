@@ -1,8 +1,11 @@
 +++
-title = "CVPIA SDM Calendar"
+title = "CVPIA SDM In-person"
+date = 2017-01-01T00:00:00  # Schedule page publish date.
 
-date = 2018-12-05T13:51:56-08:00
-# lastmod = 2018-09-09T00:00:00
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+time_start = 2019-01-01T08:30:00
+time_end = 2019-01-01T15:00:00
 
 location = "Sacramento, CA"
 

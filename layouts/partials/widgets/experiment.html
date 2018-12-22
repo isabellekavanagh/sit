@@ -1,0 +1,11 @@
+<!-- Talks widget -->
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Upcoming Meeting</h1>
+  </div>
+  <div class="col-12 col-lg-8">
+      {{ with $ .Site.GetPate "/meetings/upcoming-meeting.md" }}{{ .Title }}{{end}}
+    <!-- {{ with $ .Site.GetPate "/meetings/upcoming-meeting.md" }}<p>{{ . | markdownify }}</p>{{ end }} -->
+    <!-- {{ partial "talk_li_simple" . }} -->
+  </div>
+</div>
