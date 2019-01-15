@@ -22,5 +22,6 @@ weight = 1
 
 +++
 
-Delta SDM is a rapid prototyping pilot project. The effort will determine if SDM is an appropriate approach to prioritizing resource allocation for the management of multiple natural resource objectives in the Bay-Delta.
+SDM is a key effort by CVPIA agencies to continuously improve project recommendations and prioritization toward the anadromous fish doubling goal. Our intent is to improve collaboration under a science-based framework that is both transparent and efficient.                                                                                                                                                         
+
 
